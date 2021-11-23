@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on interesting games
 - 📫 How to reach me: 
-- Discord: Andrey_Duck#2696
-- Telegram: https://t.me/andrey_duck
+  - Discord: Andrey_Duck#2696
+  - Telegram: https://t.me/andrey_duck
 
 <!---
 h1xC0/h1xC0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
