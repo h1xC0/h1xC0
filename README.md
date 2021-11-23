@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @h1xC0
+- 👋 Hi, I’m Adrian
 - 👀 I’m interested in game development
 - 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on interesting games
